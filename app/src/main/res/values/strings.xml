@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LOGIN</string>
+
+    <string name="username">username</string>
+
+    <string name="password">password</string>
+
+    <string name="login">login</string>
+
+    <string name="no_of_attempts_remaining">no_of_attempts_remaining</string>
+
+</resources>
